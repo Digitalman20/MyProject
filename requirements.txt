@@ -1,0 +1,5 @@
+Libraries required to run my project file:
+1.openpyxl
+2.smptlib
+3.email
+4.cryptography
